@@ -1,0 +1,20 @@
+.title {
+    font-size: 60px;
+    font-weight: 30px;
+    padding-bottom: 50px;
+}
+
+.login-input .form-control {
+    letter-spacing: 0.53px;
+    color: #091F56;
+    font-size: 18px !important;
+    font-weight: 300;
+}
+
+.btn-login, .btn-login:hover {
+    color: #fff;
+    padding: .5rem 1rem;
+    font-size: 18px;
+    background: #b9a704;
+    border-radius: 4px;
+}
